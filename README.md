@@ -1,4 +1,4 @@
-# Generatting terraain mesh by longitude and latitude
+# Generatting terrain mesh by longitude and latitude
 
 ## Description
 
